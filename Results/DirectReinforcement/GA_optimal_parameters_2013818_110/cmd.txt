@@ -1,0 +1,28 @@
+>> par = GA_optimal_parameters(z(1:5000),'save_output',1);
+    - change parameter: save_output = 1
+- Best so far [1/25]: 45796.2249
+- Best so far [2/25]: 54955.4698
+- Best so far [3/25]: 38019.2151
+- Best so far [4/25]: 39690.0616
+- Best so far [5/25]: 61061.6332
+- Best so far [6/25]: 94816.3682
+- Best so far [7/25]: 105971.2351
+- Best so far [8/25]: 86450.2181
+- Best so far [9/25]: 83661.5014
+- Best so far [10/25]: 86450.2181
+- Best so far [11/25]: 94816.3682
+- Best so far [12/25]: 103182.5184
+- Best so far [13/25]: 80872.7847
+- Best so far [14/25]: 94816.3682
+- Best so far [15/25]: 78084.068
+- Best so far [16/25]: 100393.8017
+- Best so far [17/25]: 94816.3682
+- Best so far [18/25]: 105971.2351
+- Best so far [19/25]: 80872.7847
+- Best so far [20/25]: 109910.9397
+- Best so far [21/25]: 97698.6131
+- Best so far [22/25]: 109910.9397
+- Best so far [23/25]: 136419.1217
+- Best so far [24/25]: 106857.858
+- Best so far [25/25]: 444989.5276
+Elapsed time is 3410.579268 seconds.

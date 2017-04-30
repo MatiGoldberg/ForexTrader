@@ -1,0 +1,5 @@
+1. embedded loadDate into loadRange.
+2. fixed the missing-first-date bug.
+3. loadRange now takes all three scales.
+4. removed high/low lines from plotData
+5. removed clipHours.
